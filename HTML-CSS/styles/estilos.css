@@ -1,0 +1,53 @@
+
+ol{
+    color: green;
+}
+
+ul{
+    color: orange;
+}
+
+a{
+    background-color: green;
+}
+
+#parrafo3{
+    color: red;
+}
+
+.parrafoGris{
+    color: grey;
+}
+
+.parrafoNegro{
+    color: black;
+}
+
+.textoGris{
+    color: grey;
+}
+
+.textoAzul{
+    color: blue;
+}
+
+.fondoRojo{
+    background-color: red;
+}
+
+.fondoAmarillo{
+    background-color: yellow;
+}
+
+.textoGrandeNegrita{
+    font-size: x-large;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: expanded;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+.imagenPequeña{
+    height: 250px;
+    
+}
