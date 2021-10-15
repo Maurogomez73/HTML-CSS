@@ -8,7 +8,7 @@ ul{
 }
 
 a{
-    background-color: green;
+    background-color: rgb(8, 250, 20);
 }
 
 #parrafo3{
@@ -50,4 +50,33 @@ a{
 .imagenPequeña{
     height: 250px;
     
+}
+
+.contenedorConMargen{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    border: 1px solid red;
+    padding: 10px;
+}
+
+.contenedorDivsGrid{
+    border: 2px solid green;
+    display: grid;
+    grid-column: auto;
+    grid-template-rows: 25% 25% 25% 25%;
+    grid-template-columns: 30% 40% 30%;
+    margin: 20px;
+}
+
+.contenedorDivsFlex{
+    border: 2px solid green;
+    display: flex;
+    height: 500px;
+    justify-content: space-around;
+    align-items: center;
+}
+.divTest{
+    border: 1px solid red;
 }
